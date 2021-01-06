@@ -17,7 +17,7 @@ The result should look like:
 ### API
 This is the API endpoint to get the forecast:
 
-`https://my-json-server.typicode.com/evyros/react-weather-app/forecast`
+`https://netcraft2.s3-eu-west-1.amazonaws.com/weather.json`
 
 ### Further instructions:
 1. Make a component named `Forecast1Day` that will contain the forecast for 1 day. This component should receive all info with props.
