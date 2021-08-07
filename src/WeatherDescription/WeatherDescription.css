@@ -1,0 +1,29 @@
+.container {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+
+.weatherdescription {
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: gray;
+    margin-right: 10px;
+}
+
+
+.description {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+
+
+}
